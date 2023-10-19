@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kmeans-clusterer (0.11.4)
+      narray (~> 0.6)
+    narray (0.6.1.2)
+    pkg-config (1.5.5)
+    rmagick (5.3.0)
+      pkg-config (~> 1.4)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  kmeans-clusterer (~> 0.11.4)
+  rmagick (~> 5.3)
+
+RUBY VERSION
+   ruby 3.2.2p53
+
+BUNDLED WITH
+   2.4.17
